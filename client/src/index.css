@@ -17,9 +17,3 @@ body {
   background-size: cover;
   height: 100vw;
 }
-
-@media only screen and (max-width: 792px) {
-  .bg{
-    
-  }
-}

@@ -20,7 +20,7 @@ export default function Delete() {
 
   return (
     <>
-      <h2 className="px-5 my-4">deleted</h2>
+      <h2 className="px-5 py-4">deleted</h2>
     </>
   );
 }
