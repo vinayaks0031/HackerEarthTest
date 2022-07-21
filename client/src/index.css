@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  color: white;
+}
+
+.click{
+  cursor: pointer;
+}
+
+.bg-img{
+  background-image: linear-gradient(to left bottom, #789dd4, #6c94c8, #618bbc, #5683b0, #4b7aa4);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vw;
+}
+
+@media only screen and (max-width: 792px) {
+  .bg{
+    
+  }
+}
